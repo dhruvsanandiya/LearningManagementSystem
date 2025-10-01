@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\LearningManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\lms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\lms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\pages\\account\\login.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\pages\\account\\login.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\enums\\additionalenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\enums\\additionalenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\constants\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\constants\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\wwwroot\\css\\site.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\wwwroot\\css\\site.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\lms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\lms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|x:\\learningmanagementsystem\\lms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01444678-4CA6-40F6-A32F-95D734323997}|LMS.Web\\LMS.Web.csproj|solutionrelative:lms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|x:\\learningmanagementsystem\\lms.core\\enums\\coursestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063E0663-29AC-4160-9AAA-A009C420C6F5}|LMS.Core\\LMS.Core.csproj|solutionrelative:lms.core\\enums\\coursestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "LMS.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T05:30:15.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "LMS.Web\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T05:10:33.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LMS.Web.csproj",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\LMS.Web.csproj",
+              "RelativeDocumentMoniker": "LMS.Web\\LMS.Web.csproj",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\LMS.Web.csproj",
+              "RelativeToolTip": "LMS.Web\\LMS.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T10:14:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Courses\\Index.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Courses\\Index.cshtml",
+              "RelativeToolTip": "LMS.Web\\Pages\\Courses\\Index.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAIwNIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T09:56:14.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "LMS.Web\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:26:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Login.cshtml*",
+              "RelativeToolTip": "LMS.Web\\Pages\\Account\\Login.cshtml*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T05:25:00.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "LMS.Web\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:19:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "LMS.Web\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T05:22:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "LMS.Web\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T05:19:33.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "LMS.Web\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T05:15:01.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS.Web\\Pages\\Index.cshtml",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LMS.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAANQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T09:53:34.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LMS.Core.csproj",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\LMS.Core.csproj",
+              "RelativeDocumentMoniker": "LMS.Core\\LMS.Core.csproj",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\LMS.Core.csproj",
+              "RelativeToolTip": "LMS.Core\\LMS.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T09:44:19.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LMS.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LMS.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-26T09:40:17.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Policies.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Constants\\Policies.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Constants\\Policies.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Constants\\Policies.cs",
+              "RelativeToolTip": "LMS.Core\\Constants\\Policies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Constants\\Roles.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Constants\\Roles.cs",
+              "RelativeToolTip": "LMS.Core\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:50.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdditionalEnums.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Enums\\AdditionalEnums.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Enums\\AdditionalEnums.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Enums\\AdditionalEnums.cs",
+              "RelativeToolTip": "LMS.Core\\Enums\\AdditionalEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentAnswer.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\StudentAnswer.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\StudentAnswer.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\StudentAnswer.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\StudentAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:38.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuizAttempt.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\QuizAttempt.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\QuizAttempt.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\QuizAttempt.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\QuizAttempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:34.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Discussion.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Discussion.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Discussion.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Discussion.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Discussion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:30.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\ApplicationUser.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:30:41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Assignment.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Assignment.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Assignment.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LMS.Web\\Program.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Web\\Program.cs",
+              "RelativeToolTip": "LMS.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:50:57.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Certificate.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Certificate.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Certificate.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Certificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:26.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Enrollment.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Submission.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Submission.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Submission.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Submission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:34:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Question.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Question.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Question.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:31:28.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Quiz.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Quiz.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Quiz.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:31:25.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Lesson.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Lesson.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:31:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Category.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:31:16.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Course.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\Course.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\Course.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:31:06.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CourseStatus.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Enums\\CourseStatus.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Enums\\CourseStatus.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Enums\\CourseStatus.cs",
+              "RelativeToolTip": "LMS.Core\\Enums\\CourseStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:31:01.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LMS.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "X:\\LearningManagementSystem\\LMS.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "LMS.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:30:32.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
