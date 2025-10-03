@@ -1,0 +1,12 @@
+/workspace/src/LMS.Domain/bin/Debug/net8.0/LMS.Domain.deps.json
+/workspace/src/LMS.Domain/bin/Debug/net8.0/LMS.Domain.dll
+/workspace/src/LMS.Domain/bin/Debug/net8.0/LMS.Domain.pdb
+/workspace/src/LMS.Domain/obj/Debug/net8.0/LMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/LMS.Domain/obj/Debug/net8.0/LMS.Domain.AssemblyInfoInputs.cache
+/workspace/src/LMS.Domain/obj/Debug/net8.0/LMS.Domain.AssemblyInfo.cs
+/workspace/src/LMS.Domain/obj/Debug/net8.0/LMS.Domain.csproj.CoreCompileInputs.cache
+/workspace/src/LMS.Domain/obj/Debug/net8.0/LMS.Domain.sourcelink.json
+/workspace/src/LMS.Domain/obj/Debug/net8.0/LMS.Domain.dll
+/workspace/src/LMS.Domain/obj/Debug/net8.0/refint/LMS.Domain.dll
+/workspace/src/LMS.Domain/obj/Debug/net8.0/LMS.Domain.pdb
+/workspace/src/LMS.Domain/obj/Debug/net8.0/ref/LMS.Domain.dll
