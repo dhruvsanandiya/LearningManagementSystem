@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: lms-sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong@Passw0rd123
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqldata:/var/opt/mssql
+    networks:
+      - lms-network
+
+  api:
+    build:
+      context: ./Backend
+      dockerfile: Dockerfile
+    container_name: lms-api
+    ports:
+      - "7001:80"
+      - "7002:443"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=LearningManagementSystem;User Id=sa;Password=YourStrong@Passw0rd123;TrustServerCertificate=True
+      - JWT__Secret=YourSuperSecretKeyForJWTTokenGeneration123456789
+      - JWT__ValidIssuer=LMS_API
+      - JWT__ValidAudience=LMS_Client
+    depends_on:
+      - sqlserver
+    networks:
+      - lms-network
+
+  frontend:
+    build:
+      context: ./Frontend
+      dockerfile: Dockerfile
+    container_name: lms-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
+    networks:
+      - lms-network
+
+volumes:
+  sqldata:
+
+networks:
+  lms-network:
+    driver: bridge
+

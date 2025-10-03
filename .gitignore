@@ -1,0 +1,24 @@
+# Backend
+Backend/[Bb]in/
+Backend/[Oo]bj/
+Backend/.vs/
+Backend/*.user
+Backend/*.suo
+Backend/Migrations/
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+

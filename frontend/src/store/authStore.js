@@ -1,61 +1,35 @@
-import { create } from 'zustand';
-import { persist } from 'zustand/middleware';
+import { create } from 'zustand'
+import { persist } from 'zustand/middleware'
 
-const useAuthStore = create(
+export const useAuthStore = create(
   persist(
-    (set, get) => ({
+    (set) => ({
       user: null,
       token: null,
       isAuthenticated: false,
-
-      // Actions
-      login: (userData, token) => {
-        set({
-          user: userData,
-          token: token,
-          isAuthenticated: true,
-        });
-      },
-
+      
+      setAuth: (user, token) => set({
+        user,
+        token,
+        isAuthenticated: true
+      }),
+      
       logout: () => {
         set({
           user: null,
           token: null,
-          isAuthenticated: false,
-        });
-      },
-
-      updateUser: (userData) => {
-        set((state) => ({
-          user: { ...state.user, ...userData },
-        }));
-      },
-
-      // Role-based helper functions
-      isAdmin: () => {
-        const { user } = get();
-        return user?.role === 'admin';
-      },
-
-      isTeacher: () => {
-        const { user } = get();
-        return user?.role === 'teacher';
-      },
-
-      isStudent: () => {
-        const { user } = get();
-        return user?.role === 'student';
-      },
+          isAuthenticated: false
+        })
+        // Clear all storage
+        localStorage.removeItem('auth-storage')
+        sessionStorage.clear()
+        // Clear history state
+        window.history.replaceState(null, '', '/login')
+      }
     }),
     {
-      name: 'auth-storage',
-      partialize: (state) => ({
-        user: state.user,
-        token: state.token,
-        isAuthenticated: state.isAuthenticated,
-      }),
+      name: 'auth-storage'
     }
   )
-);
+)
 
-export default useAuthStore;
