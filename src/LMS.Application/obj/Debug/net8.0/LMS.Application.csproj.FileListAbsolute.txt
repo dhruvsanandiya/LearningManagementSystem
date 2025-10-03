@@ -1,0 +1,16 @@
+/workspace/src/LMS.Application/bin/Debug/net8.0/LMS.Application.deps.json
+/workspace/src/LMS.Application/bin/Debug/net8.0/LMS.Application.dll
+/workspace/src/LMS.Application/bin/Debug/net8.0/LMS.Application.pdb
+/workspace/src/LMS.Application/bin/Debug/net8.0/LMS.Domain.dll
+/workspace/src/LMS.Application/bin/Debug/net8.0/LMS.Domain.pdb
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.csproj.AssemblyReference.cache
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.AssemblyInfoInputs.cache
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.AssemblyInfo.cs
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.csproj.CoreCompileInputs.cache
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.sourcelink.json
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Appl.3451E0AD.Up2Date
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.dll
+/workspace/src/LMS.Application/obj/Debug/net8.0/refint/LMS.Application.dll
+/workspace/src/LMS.Application/obj/Debug/net8.0/LMS.Application.pdb
+/workspace/src/LMS.Application/obj/Debug/net8.0/ref/LMS.Application.dll
